@@ -5,7 +5,7 @@ Final Project for the Fundamentals of Robotics course taught by Dr Pranav Bhouns
 
 The motivation for this project is the DARPA robotics challenge. In this case we use a LEGO built mobile robot with a differential drive mobile base. As a result, we did not worry about a lot of the complexieties(e.g bipedal locomotion and control, manipulation, obstacle avoidance), including hardware complexities, as was the case in the DARPA competition. 
 
-The goal of the project was build and program a robot to automonously navigate through a color coded task space and execute a series of tasks under certain constraints. More info here 
+The goal of the project was build and program a robot to automonously navigate through a color coded task space and execute a series of tasks under certain constraints. More info here https://github.com/pab47/LARPA_Robotics_Challenge
 
 
 Uisng data from the available sensors provided in the kit (Gyro, ultrasonic, sonar, color sensor),we wrote MATLAB code to navigate along the task and perform required tasks. It helped that the navigation space was intentionally color coded to aid navigation. That way we wrote code specific to the color scheme and arrangement provided on the task space.
